@@ -28,6 +28,7 @@
     "gulp-strip-debug": "^1.0.2",
     "gulp-stylus": "^2.0.1",
     "gulp-svg-sprite": "^1.1.2",
+    "gulp-typescript": "^2.9.2",
     "gulp-uglify": "^1.4.2",
     "gulp-util": "^3.0.4",
     "gulp-watch": "^4.2.4",
@@ -42,8 +43,8 @@
     "vinyl-fs": "^1.0.0"
   },
   "dependencies": {
+    "angular2": "^2.0.0-alpha.46",
     "express": "^4.12.3",
-    "gulp-typescript-compiler": "^1.0.1",
     "serve-static": "^1.9.2"
   }
 }
